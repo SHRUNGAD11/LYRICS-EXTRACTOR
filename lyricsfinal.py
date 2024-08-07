@@ -6,7 +6,7 @@ from lyrics_extractor import SongLyrics
 def get_lyrics():
 
     # Add your GCS_API_KEY and GCS_ENGINE_ID
-    extract_lyrics = SongLyrics("AIzaSyC1Nmroff9dRSFhMUXkxs7aIF1s_flLU7s", "676c8bf8d77e1452d")
+    extract_lyrics = SongLyrics("GCS_API_KEY", "GCS_ENGINE_ID")
 
     temp = extract_lyrics.get_lyrics(str(e.get()))
     res = temp['lyrics']
