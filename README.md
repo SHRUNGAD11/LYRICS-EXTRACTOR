@@ -1,4 +1,6 @@
 # LYRICS-EXTRACTOR
+FOR ASSISSTANT:
+https://www.geeksforgeeks.org/create-a-gui-to-extract-lyrics-from-song-using-python/
 
 Create a GUI to extract Lyrics from song Using 
 
