@@ -1,5 +1,7 @@
 # LYRICS-EXTRACTOR
 OUTPUT:
+![Screenshot 2024-08-08 103534](https://github.com/user-attachments/assets/e2afb794-9840-4b25-8eeb-f8d99e7e8f7c)
+![68747470733a2f2f692e706f7374696d672e63632f6662776b507a4b712f322e706e67](https://github.com/user-attachments/assets/42b46dae-5c60-4695-a225-b007d31f7608)
 
 
 FOR ASSISSTANCE:
